@@ -1,0 +1,13 @@
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#t.me/dicodeir-1
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#t.me/dicodeir-2
+hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443/?insecure=1&sni=paris.nerabotaet.com#t.me/dicodeir-3
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig#t.me/dicodeir-4
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#t.me/dicodeir-5
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#t.me/dicodeir-6
+vless://5c4ce4e3-d4cd-43ff-8eb0-9aa553410bff@www.iplocation.net:8080?&type=ws&headerType=none&host=n23odi-jolly-sound-f784.mbkl61es.workers.dev&path=%2F#t.me/dicodeir-7
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#t.me/dicodeir-8
+trojan://m%69tivpn@199.232.78.170:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#t.me/dicodeir-9
+vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?encryption=none&type=ws&security=tls&sni=ssl.fastly.com&path=/&host=pan2e.global.ssl.fastly.net#t.me/dicodeir-10
+vless://e2a4dbed-1353-44ac-b4ff-51dcfdc58dcf@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#t.me/dicodeir-11
+vmess://eyJhZGQiOiIxODYuMTkwLjIxMS42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGFob2JhYy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9kaWNvZGVpci0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJwYWhvYmFjLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206OWNmYWE3OGQ1MWFjMzY2Zg@103.115.18.145:10090#t.me/dicodeir-13
